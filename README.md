@@ -1,2 +1,2 @@
-# BhashiBandara95_FullStack_MERN_Social_Media_App
-This project use to showcase my MERN stack skills.
+# BhashiBandara95_Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Quer
+This project is used to showcase my MERN stack skills.
